@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1027651659039",
+    "firebase_url": "https://exlogin-8e677.firebaseio.com",
+    "project_id": "exlogin-8e677",
+    "storage_bucket": "exlogin-8e677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027651659039:android:bc7ca5dfea04e6a8abbc2a",
+        "android_client_info": {
+          "package_name": "com.login_google_firebase_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027651659039-8hj9jk2kig8g7camp9cdaias0maudfl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.login_google_firebase_android",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1027651659039-6kjaldbmr765re8326btur2k331813s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaYXZD2Gh2fTYpLky3h582R6dsDqINEKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027651659039-6kjaldbmr765re8326btur2k331813s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
