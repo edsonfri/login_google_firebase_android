@@ -11,7 +11,8 @@ Nas minhas pesquisas, encontrei muita infoormação pela metade, ou desatualizad
    - **npm add @react-native-firebase/app**
    - **npm add @react-native-firebase/auth** dependência para o módulo Firebase Auth para RN
    - **npm add @react-native-community/google-signin** dependência do google signin para o RN
-   - **react-native link @react-native-community/google-signin**  comando para você fazer o link da depenência do google signin, pois ainda não funciona com autolink.
-   
-
-  
+   - **react-native link @react-native-community/google-signin**  comando para você fazer o link da depenência do google signin, pois ainda não funciona com autolink. 
+<br />
+A partir daqui, se você fazer o build do seu projeto, ele não vai abrir, pois precisamos configurar algumas coisinhas para que a
+lib(google-signin) funcione direitinho.
+<br />
