@@ -1,7 +1,7 @@
 ![](src/image/Firebase_LoginGoogle_React.png)
 # React Native + Login Google + Firebase + Android
 Olá pessoal, depois de ter muitos problemas para conseguir implementar no meu aplicativo, a funcionalidade de login utilizando o Google, salvando no Firebase, decidi criar esse tutorial.
-Nas minhas pesquisas, encontrei muita infoormação pela metade, ou desatualizada. Além de disponibulizar os fontes, criei uma passo a passo sem erros. :)
+Nas minhas pesquisas, encontrei muitas informações pela metade, ou desatualizada. Além de disponibilizar os fontes, criei uma passo a passo sem erros. :)
 
 **OBS: Este tutorial engloba apenas projetos a partir da versão 0.60 do RN(React Native) e o Android.**
 
