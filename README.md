@@ -16,3 +16,5 @@ Nas minhas pesquisas, encontrei muita infoormação pela metade, ou desatualizad
 A partir daqui, se você fazer o build do seu projeto, ele não vai abrir, pois precisamos configurar algumas coisinhas para que a
 lib(google-signin) funcione direitinho.
 <br />
+Precisamos acessar a pasta **android** dentro do projeto e abrir o arquivo **build.gradle** no seguinte caminho:
+  **\login_google_firebase_android\android**
